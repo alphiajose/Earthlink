@@ -1,0 +1,11 @@
+{
+  "sensor_id": "12345",
+  "location": {
+    "lat": 37.7749,
+    "lon": -122.4194
+  },
+  "air_quality_index": 42,
+  "water_quality": 88,
+  "deforestation_alerts": false,
+  "timestamp": "2024-10-06T12:00:00Z"
+}
